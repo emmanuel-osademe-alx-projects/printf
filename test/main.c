@@ -27,4 +27,6 @@ int main(void)
       printf("LA[%d] = %d \n", i, LA[i]);
       printf("Address of LA[%d] = %d is: %p \n", i, LA[i], &LA[i]);
    }
+
+   return (0);
 }
